@@ -5,6 +5,20 @@
   <strong>Hosted storefront platform for swyftpay.now merchants.</strong><br>
   Go &nbsp;·&nbsp; SvelteKit &nbsp;·&nbsp; PostgreSQL &nbsp;·&nbsp; Caddy &nbsp;·&nbsp; Docker Swarm
 </p>
+<p align="center">
+  <a href="https://github.com/r3dprojects/support.swyftec.com/commits/main"><img src="https://img.shields.io/github/last-commit/r3dprojects/support.swyftec.com?label=last%20activity" alt="last activity"></a>
+  <a href="https://github.com/r3dprojects/support.swyftec.com/issues"><img src="https://img.shields.io/github/issues/r3dprojects/support.swyftec.com" alt="open issues"></a>
+  <a href="https://github.com/r3dprojects/support.swyftec.com/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed/r3dprojects/support.swyftec.com?color=success" alt="closed issues"></a>
+  <a href="https://status.swyftec.com"><img src="https://img.shields.io/badge/status-status.swyftec.com-blue" alt="platform status"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/github/license/r3dprojects/support.swyftec.com?label=docs%20license" alt="docs license"></a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" alt="Go">
+  <img src="https://img.shields.io/badge/SvelteKit-FF3E00?logo=svelte&logoColor=white" alt="SvelteKit">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Caddy-1F88C0?logo=caddy&logoColor=white" alt="Caddy">
+  <img src="https://img.shields.io/badge/Docker%20Swarm-2496ED?logo=docker&logoColor=white" alt="Docker Swarm">
+</p>
 
 ---
 
