@@ -13,11 +13,11 @@
   <img src="https://img.shields.io/badge/docs-CC--BY--4.0-1e293b?style=for-the-badge&labelColor=111827" alt="docs license">
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/-Go-06b6d4?style=for-the-badge&logo=go&logoColor=white" alt="Go">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-SvelteKit-db2777?style=for-the-badge&logo=svelte&logoColor=white" alt="SvelteKit">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-PostgreSQL-06b6d4?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-Caddy-db2777?style=for-the-badge" alt="Caddy">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-Docker%20Swarm-06b6d4?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Swarm">
+  <a href="#readme"><img src="https://img.shields.io/badge/-Go-06b6d4?style=for-the-badge&logo=go&logoColor=white" alt="Go"></a>&nbsp;&nbsp;
+  <a href="#readme"><img src="https://img.shields.io/badge/-SvelteKit-db2777?style=for-the-badge&logo=svelte&logoColor=white" alt="SvelteKit"></a>&nbsp;&nbsp;
+  <a href="#readme"><img src="https://img.shields.io/badge/-PostgreSQL-06b6d4?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"></a>&nbsp;&nbsp;
+  <a href="#readme"><img src="https://img.shields.io/badge/-Caddy-db2777?style=for-the-badge" alt="Caddy"></a>&nbsp;&nbsp;
+  <a href="#readme"><img src="https://img.shields.io/badge/-Docker%20Swarm-06b6d4?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Swarm"></a>
 </p>
 
 ---
