@@ -20,7 +20,7 @@ This repository is the **public issue tracker** for [swyftec.com](https://swyfte
 
 swyftec is the platform layer behind [swyftpay.now](https://swyftpay.now) — providing the storefront, merchant administration, identity management, and shared infrastructure that all swyftec products run on top of.
 
-Merchants use swyftec to manage their business profile, configure their payment terminal, set up custom domain storefronts, and access analytics. The platform is designed for Irish micro-merchants but built to scale.
+Merchants use swyftec to manage their business profile, configure their payment terminal, set up custom domain storefronts, and access analytics. The platform is designed for micro-merchants but built to scale.
 
 ---
 
@@ -38,7 +38,7 @@ Current status: [status.swyftec.com](https://status.swyftec.com)
 | Web frontend | SvelteKit |
 | Database | PostgreSQL |
 | Reverse proxy | Caddy (automatic TLS) |
-| Deployment | Docker Swarm · Hetzner VPS |
+| Deployment | Docker Swarm |
 
 ---
 
