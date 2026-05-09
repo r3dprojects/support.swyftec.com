@@ -2,8 +2,7 @@
   <img src="assets/swyftec-strapline.svg" alt="swyftec" width="280">
 </p>
 <p align="center">
-  <strong>Hosted storefront platform for swyftpay.now merchants.</strong><br>
-  Go &nbsp;·&nbsp; SvelteKit &nbsp;·&nbsp; PostgreSQL &nbsp;·&nbsp; Caddy &nbsp;·&nbsp; Docker Swarm
+  <strong>Hosted storefront platform for swyftpay.now merchants.</strong>
 </p>
 <p align="center">
   <a href="https://github.com/r3dprojects/support.swyftec.com/commits/main"><img src="https://img.shields.io/github/last-commit/r3dprojects/support.swyftec.com?label=last%20activity&style=for-the-badge&labelColor=111827&color=06b6d4" alt="last activity"></a>&nbsp;&nbsp;
